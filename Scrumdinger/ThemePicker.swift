@@ -2,7 +2,7 @@
 //  ThemePicker.swift
 //  Scrumdinger
 //
-//  Created by admin on 06/09/2023.
+//  Created by hoangcongminh on 06/09/2023.
 //
 
 import SwiftUI
